@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Uvindu Weerasekara👋
+
+🎓 Final year Networking & Cybersecurity student @ University of Adelaide  
+🔍 Focused on DFIR, Threat Detection & Log Analysis  
+📚 HTB CDSA candidate | THM SAL1 | Sec+ in progress  
+📍 Adelaide, SA, Australia  
+🎯 Graduating November 2026  
+
+## What you'll find here
+- 🔎 HTB Sherlock investigation writeups
+- 📝 Study notes & detection research
 
 <!--
 **uweerasekara3-lgtm/uweerasekara3-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
